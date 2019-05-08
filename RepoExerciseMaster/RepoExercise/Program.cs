@@ -15,7 +15,7 @@ namespace RepoExercise
             Console.WriteLine("This is a repo test!");
 
             // sample 
-            // comment new 
+            // comment conflict 
 
             int value1 = 4;
             int value2 = 3;
