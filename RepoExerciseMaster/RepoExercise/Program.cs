@@ -16,6 +16,7 @@ namespace RepoExercise
 
             // sample 
             // comment new 12345
+            // comment conflict 
 
             int value1 = 4;
             int value2 = 3;
