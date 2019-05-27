@@ -34,6 +34,7 @@ steps:
 
 - task: CopyFiles@2
   inputs:
+    sourceFolder: $(Build.SourcesDirectory)
     contents: '_buildOutput\**'
     targetFolder: $(Build.ArtifactStagingDirectory)
 
